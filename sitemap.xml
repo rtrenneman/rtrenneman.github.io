@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.example.com/privacy-policy/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/about/</loc>
+    <lastmod>2016-03-15T18:18:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/2016/03/my-second-post/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/2016/03/my-first-post/</loc>
+    <lastmod>2016-03-15T18:17:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/article/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/demo/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/example/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/first/</loc>
+    <lastmod>2016-03-15T18:17:52-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/flat/</loc>
+    <lastmod>2016-03-15T18:17:52-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/hugo/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/page/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/post/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/tag1/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/tag2/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/theme/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
