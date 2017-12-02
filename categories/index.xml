@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My Website</title>
+    <link>https://rtrenneman.github.io/categories/</link>
+    <description>Recent content in Categories on My Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://rtrenneman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flat</title>
+      <link>https://rtrenneman.github.io/categories/flat/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:52 -0700</pubDate>
+      
+      <guid>https://rtrenneman.github.io/categories/flat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://rtrenneman.github.io/categories/hugo/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>https://rtrenneman.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://rtrenneman.github.io/categories/theme/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>https://rtrenneman.github.io/categories/theme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

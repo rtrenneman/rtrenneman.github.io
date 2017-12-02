@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Website</title>
+    <link>https://rtrenneman.github.io/tags/</link>
+    <description>Recent content in Tags on My Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Mar 2016 18:17:56 -0700</lastBuildDate>
+    
+	<atom:link href="https://rtrenneman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article</title>
+      <link>https://rtrenneman.github.io/tags/article/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>https://rtrenneman.github.io/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://rtrenneman.github.io/tags/demo/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>https://rtrenneman.github.io/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>https://rtrenneman.github.io/tags/example/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>https://rtrenneman.github.io/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://rtrenneman.github.io/tags/first/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:52 -0700</pubDate>
+      
+      <guid>https://rtrenneman.github.io/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>https://rtrenneman.github.io/tags/post/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>https://rtrenneman.github.io/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag1</title>
+      <link>https://rtrenneman.github.io/tags/tag1/</link>
+      <pubDate>Tue, 15 Mar 2016 18:21:33 -0700</pubDate>
+      
+      <guid>https://rtrenneman.github.io/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>https://rtrenneman.github.io/tags/tag2/</link>
+      <pubDate>Tue, 15 Mar 2016 18:21:33 -0700</pubDate>
+      
+      <guid>https://rtrenneman.github.io/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
